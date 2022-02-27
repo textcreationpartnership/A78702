@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties declaration for peace, to all his subjects of England, to be published and obeyed throughout the Kingdom, by all judges, justices of the peace, mayors, sheriffs, constables, and all other His Majesties liege people, to the great terrour of those who object against the treaty. Published by authority. Also, the Scots declaration to Lieu. Gen. Crumwel, touching the independent party, and a message to Major Gen. Lambert, and his admission into that Kingdom. With a dangerous fight, and the number killed and wounded.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78702</idno>
+            <idno type="STC">Wing C2202</idno>
+            <idno type="STC">Thomason E465_3</idno>
+            <idno type="STC">ESTC R205180</idno>
+            <idno type="EEBO-CITATION">99864612</idno>
+            <idno type="PROQUEST">99864612</idno>
+            <idno type="VID">162265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties declaration for peace, to all his subjects of England, to be published and obeyed throughout the Kingdom, by all judges, justices of the peace, mayors, sheriffs, constables, and all other His Majesties liege people, to the great terrour of those who object against the treaty. Published by authority. Also, the Scots declaration to Lieu. Gen. Crumwel, touching the independent party, and a message to Major Gen. Lambert, and his admission into that Kingdom. With a dangerous fight, and the number killed and wounded.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Septemb. 28. Printed for Joseph Hunter,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 letters dated: "Newport 26. Septem. 1648" and "Brill 24 Septemb. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162265:1" rendition="simple:additions"/>
+            <p>The Kings Majeſties DECLARATION FOR <hi>PEACE,</hi> to all His Subjects of <hi>England,</hi> to be publiſhed and obeyed throughout the <hi>Kingdom,</hi> by all Judges, Juſti<g ref="char:EOLhyphen"/>ces of the peace, Mayors, Sheriffs, Conſtables, and all o<g ref="char:EOLhyphen"/>ther His Majeſties liege people, to the great terrour of thoſe who object againſt the Treaty.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>Alſo, the Scots Declaration to Lieu. Gen. <hi>Crumwel,</hi> touching the Independent party, and a Meſſage to Major Gen. <hi>Lam<g ref="char:EOLhyphen"/>bert,</hi> and his admiſſion into that <hi>Kingdom.</hi> With a dange<g ref="char:EOLhyphen"/>rous Fight, and the number killed and wounded.</p>
+            <figure>
+               <figDesc>Royal blazon of Charles II</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>Septemb. 28. Printed for <hi>Joſeph Hunter.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162265:2"/>
+            <pb n="1" facs="tcp:162265:2"/>
+            <head>HIS MAJESTIES GRACIOUS DECLARATION TO His Subjects of <hi>England,</hi> Wherein is declared His Royall Senſe and Reſolution, to ſettle the diſtra<g ref="char:EOLhyphen"/>ctions of this bleeding Kingdom.</head>
+            <opener>
+               <salute>Right Honored,</salute>
+            </opener>
+            <p>AFter much time ſpent in debate upon the firſt Propoſition for recalling and making null all Declarations and Proclamations publiſhed a<g ref="char:EOLhyphen"/>gainſt either or both Houſes of Parliament, His Ma<g ref="char:EOLhyphen"/>jeſty was graciouſly pleaſed to declare his ſenſe and reſolution touching the ſaid Bill, and to give his Roy<g ref="char:EOLhyphen"/>all
+<pb n="2" facs="tcp:162265:3"/>aſſent thereunto, promiſing on his Royall Word to paſle an Act for juſtifying for juſtifying the procee<g ref="char:EOLhyphen"/>dings of Parliament in the late war; a Copy whereof, I have ſent you here incloſed.</p>
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <head>A Copy of the Act and Declaration, agreed upon by his Majesty, and the Commiſſioners, at the Treaty at Newport in the Iſle of <hi>Wight.</hi>
+                  </head>
+                  <p>VVHereas the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, have been neceſſitated to make and proſecute a war in their juſt and lawfull defence; and thereupon Oaths, Declaration, and procla<g ref="char:EOLhyphen"/>mations have been made againſt them, and their Ordi<g ref="char:EOLhyphen"/>nances and proceedings, and againſt others for adhe<g ref="char:EOLhyphen"/>ring unto them, and for executing offices, places, and charges by authority derived from them; and Judge<g ref="char:EOLhyphen"/>ments, Inditements, Outlaries, Attainders, and Inquiſi<g ref="char:EOLhyphen"/>tions, for the cauſes aforeſaid, have been had &amp; made againſt ſome of the Members of the Houſes of parlia<g ref="char:EOLhyphen"/>ment, and other his Majeſties good Subjects, &amp; Grants have been made of their Lands and Goods.</p>
+                  <p>Be it therefore declared, and hereby enacted, by the Kings Majeſty, and by the Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, and by Authority of the ſame,</p>
+                  <p>That all Oaths, Declarations, and Proclamations heretofore had or made againſt both or either of the Houſes of Parliament, or any the Members of either of them, for the cauſes aforeſaid, or againſt their Or<g ref="char:EOLhyphen"/>ninances or proceedings, or againſt any for adhering unto them, or for doing or executing any office, place,
+<pb n="3" facs="tcp:162265:3"/>or charge, by any Authority derived from the ſaid Houſes, or either of them, And all Judgments, Indite<g ref="char:EOLhyphen"/>ments, Outlaries, Attainders, Inquiſitions and Grants thereupon made, and all other proceedings for any the cauſes aforeſaid, had, made, done or executed, or to be had made done or executed, whether the ſame be done by the King or any Judges, Juſtices, Sheriffs, Miniſters or any others, are void and of no effect, and are con<g ref="char:EOLhyphen"/>trary to and againſt the Laws of this Realm.</p>
+                  <p>And be it further Enacted and hereby Declared by the Authority aforeſaid, That all Judges, Juſtices of the peace, Mayors, Sheriffs, Conſtables, and other Of<g ref="char:EOLhyphen"/>ficers and Miniſters ſhall take notice hereof, and are hereby prohibited and diſcharged in all time to come from awarding any Writ, proceſſe, oa Summons, and from pronouncing or executing any Judgment Sen<g ref="char:EOLhyphen"/>tence or Decree, or any way proceeding againſt, or moleſting any of the ſaid Members of the two Houſes of <hi>Parliament,</hi> or againſt any of the Subjects of this Kingdom, for any the cauſes aforeſaid.</p>
+               </body>
+            </floatingText>
+            <p>The Commiſſioners proceed on to the reſt of their Propoſitions, according to their Inſtructions, and it his hoped there will be a mutual concurrence ther<g ref="char:EOLhyphen"/>unto.</p>
+            <p>His Majeſty ſhewes great willingneſſe to comply with them in all things propounded, ſo far as it may tend to the ſafety and preſervation of the Laws of the Land, the Diſcipline of the Church, and the peace and tranquility of his languiſhing, and diſtreſſed King<g ref="char:EOLhyphen"/>dome</p>
+            <closer>
+               <dateline>
+                  <hi>Newport</hi> 
+                  <date>26. Septem. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162265:4"/>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>SInce my laſt of the 14. inſtant, here hath happe<g ref="char:EOLhyphen"/>ned ſome action in theſe parts, Col. <hi>Aſhton</hi> with his Lancaſhire Forces hath lately fallen upon a party of Royaliſts neer <hi>Kendall</hi> in <hi>Westmerland,</hi> and routed and diſperſed moſt of them: from thence he is marching towards <hi>Carliſle</hi> with a very conſiderable party of Horſe and Foot, to keep the Birds cloſe up there, or clip their wings from flying any further.</p>
+            <p>Lieut. Gen. <hi>Crumwell</hi> is upon the Confines of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and it is thought will croffe the River Tweed, if <hi>Barwick</hi> be not ſuddenly ſurrendred.</p>
+            <p>We hear that Col. Gen. <hi>Lambert</hi> hath admiſſion in<g ref="char:EOLhyphen"/>to that Kingdom, being ſent for by the Generall Aſ<g ref="char:EOLhyphen"/>ſembly, and others, to treat upon the affairs of both Kingdoms to remove all differences and jealouſies, &amp; to have a mutuall coereſpondency between the ſub<g ref="char:EOLhyphen"/>jects of both Nations.</p>
+            <p>The Scots cannot indure to hear of the name of <hi>Crumwell,</hi> but ſaith, That if ever he invades that Nation they will riſe as one man againſt him: this is only the ſaying of the vanting Leards, who by experience hath felt the heavy hand of the Lieutenant Generall, and his noble Heroes.</p>
+            <p>
+               <hi>Monro</hi> is joyned with the Earl of <hi>Lanerick,</hi> and lies forty miles on this ſide <hi>Edenburgh,</hi> their head quar<g ref="char:EOLhyphen"/>ters are about twenty miles diſtant from the Confines
+<pb n="5" facs="tcp:162265:4"/>of <hi>England,</hi> whoſe Army conſiſts of eight thouſand horſe and foot.</p>
+            <p>By Letters from Holland it is advertized as follow<g ref="char:EOLhyphen"/>eth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>Here hath lately happened ſome diſputations between his Highneſſe the Prince of <hi>VVales,</hi> and the Royall party with him, in relation how to diſpoſe of the Navy, and the Grandees have had ſome con<g ref="char:EOLhyphen"/>ſultation thereupon, in order thereunto for diſpoſing of the ſaid Fleet, not thinking themſelves or ſhips in ſo good a poſture, or uſefull a way where they are, becauſe, they conceive, if they ſhould plunder the <hi>London</hi> Marchants, they ſhould incur the diſpleaſure of the <hi>Metropolis,</hi> and for the future receive no ſuc<g ref="char:EOLhyphen"/>cour or relief from thence, but receive gratification by a power of oppoſition.</p>
+                  <p>Beſides, the Lord high Admirall at Sea may be up<g ref="char:EOLhyphen"/>on the back of them before they be aware, the wind erving now to carry them from the Downs.</p>
+               </body>
+            </floatingText>
+            <p>This buſineſſe took up ſome time in debate thereof and at laſt came to theſe reſults.</p>
+            <p>Divers of the Councell, as Prince <hi>Maurice,</hi> and o<g ref="char:EOLhyphen"/>thers, declared at the Councell table, That they con<g ref="char:EOLhyphen"/>ceiv'd it moſt neceſſary and requiſite, to weigh an<g ref="char:EOLhyphen"/>chor, and ſteer towards the kingdom of <hi>France,</hi> deli<g ref="char:EOLhyphen"/>vering ſeverall reaſons, wherein it tended moſt for the ſafety of the Navy, and the advancement of their Soveraigns Cauſe, if the Treaty took not effect.</p>
+            <closer>
+               <dateline>
+                  <hi>Brill</hi> 
+                  <date>24 <hi>Septemb.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter__cont.">
+            <pb n="6" facs="tcp:162265:5"/>
+            <p>Other Letters from the North ſay, That the Com<g ref="char:EOLhyphen"/>mons of Scotland appears viſible for defence of their own Country, as they ſay; but its conceiv'd they have ſome private grudge againſt <hi>England:</hi> ſome of them which were lately taken priſoners, have declared to Lieut. Gen. <hi>Crumwell,</hi> That their Deſign was to have baniſhed and killed all thoſe which they call Secta<g ref="char:EOLhyphen"/>ries, or any others, that would not comply and adhere to them.</p>
+            <p>A party of the Lieutenant Generals horſe croſſed Tweed 12 miles above <hi>Barwick,</hi> marched 8 miles into the Country, where they met with ſome oppoſition by <hi>Monro's</hi> Forces, both parties ingaged, and diſputed the place with great galantry, but after three leſperate charges, the Jockies retreated, leaving five of their men dead upon the place. The conflict being ended, the Engliſh wheeled about, and made good their re<g ref="char:EOLhyphen"/>treat with the loſſe of two men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
